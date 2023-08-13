@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Biradar",
+      "Address": "Behind autopsy swami temple Kalyan Nagar Takke Road Vijayapur",
+      "password": "12345",
+      "Email": "chitra",
+      "id": 2
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Biradar",
+      "Address": "Behind autopsy swami temple Kalyan Nagar Takke Road Vijayapur",
+      "password": "1234",
+      "Email": "k@",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
